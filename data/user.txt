@@ -1,0 +1,14 @@
+30343, admin, ^^^Y!J#2$2%6&X(1)M*$$$, AD, enabled
+98887, teacher1, ^^^Y!J#2$2%6&X(1)M*$$$, TA, enabled, CSE101
+19133, teacher2, ^^^Y!J#2$2%6&X(1)M*$$$, TA, enabled, CSE102
+41066, teacher3, ^^^Y!J#2$2%6&X(1)M*$$$, TA, enabled, CSE103
+26741, student1, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+76167, student2, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+79669, student3, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+66821, student4, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+43299, student5, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+44715, student6, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+34014, student7, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+89304, student8, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+50092, student9, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1
+43429, student10, ^^^Y!J#2$2%6&X(1)M*$$$, ST, enabled, CSE101:-1; CSE102:-1; CSE103:-1

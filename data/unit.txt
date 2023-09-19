@@ -1,0 +1,3 @@
+7728815, CSE101, Introduction to Programming, 10
+7069397, CSE102, Data Structures and Algorithms, 10
+5729358, CSE103, Computer Organization, 10
